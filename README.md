@@ -5,6 +5,10 @@
 
 # 文件列表
 
+```
+print("Hello Android")
+```
+
 AIDE_3.2.170816美化版.apk[点我下载](https://cfanpc.github.io/APP/AIDE_3.2.170816.apk)
 
 ALuaj_1.0.1.apk[点我下载](https://cfanpc.github.io/APP/ALuaj_1.0.1.apk) 
