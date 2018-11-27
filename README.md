@@ -5,7 +5,7 @@
 
 # 文件列表
 
-AIDE_3.2.170816美化版.apk[点我下载](/app/AIDE_3.2.170816.apk)
+AIDE_3.2.170816美化版.apk[点我下载](app/AIDE_3.2.170816.apk)
 
 ALuaj_1.0.1.apk[点我下载](/app/ALuaj_1.0.1.apk) 
 
